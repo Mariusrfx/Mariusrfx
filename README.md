@@ -23,6 +23,15 @@
 
 ---
 
+### 🚧 Currently Working On
+
+* 🔭 **[Logtailr](https://github.com/Mariusrfx/logtailr)** — 
+  A concurrent multi-source log aggregator CLI built in Go. 
+  Supports file/Docker sources, live tail, JSON/logfmt parsing 
+  and OpenSearch/Prometheus sinks.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Backend & Languages**
