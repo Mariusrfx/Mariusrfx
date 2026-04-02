@@ -1,15 +1,18 @@
 
 <div align="center">
   <h1 align="center">Hi there, I'm Marius Romosan</h1>
-  <h3 align="center">Backend Engineer | Go, Cloud Infrastructure & Terraform</h3>
+  <h3 align="center">Backend Developer | Cloud Infrastructure | Terraform</h3>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marius-romosan/">
+  <a href="https://www.linkedin.com/in/mromosan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:mariusrfx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://mromosan.dev">
+    <img src="https://img.shields.io/badge/Web-mromosan.dev-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website Badge"/>
   </a>
 </p>
 
@@ -18,8 +21,7 @@
 ### About Me
 
 - Backend developer with 3+ years of experience in **Go**, **Terraform**, and **cloud infrastructure**.
-- Built **3 custom Terraform Providers** deployed to production.
-- Currently on an R&D team delivering cloud infrastructure for **AI workloads (vLLM)** as part of the EU IPCEI-CIS project.
+- Developed **3 custom Terraform Providers** and **microservices in Go**.
 - AWS certified.
 
 ---
@@ -32,20 +34,32 @@
 
 ### Tech Stack
 
-**Backend & Languages**
+**Languages & Backend**
 <br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/PHP_(Slim)-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Java_(Spring_Boot)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+**Communication & Messaging**
+<br>
 <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 
-**Cloud & Infrastructure**
+**Architecture**
+<br>
+<img src="https://img.shields.io/badge/DDD-8A2BE2?style=for-the-badge&logoColor=white" alt="DDD" />
+<img src="https://img.shields.io/badge/Hexagonal_Architecture-FF6F61?style=for-the-badge&logoColor=white" alt="Hexagonal Architecture" />
+<img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/Event--Driven-FF9800?style=for-the-badge&logoColor=white" alt="Event-Driven" />
+
+**Cloud & DevOps**
 <br>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
 **Observability**
 <br>
@@ -63,9 +77,11 @@
 <br>
 <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify" />
 <img src="https://img.shields.io/badge/PHPUnit-3777E6?style=for-the-badge&logo=phpunit&logoColor=white" alt="PHPUnit" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
 
-**AI Tools**
+**AI Development Tools**
 <br>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
