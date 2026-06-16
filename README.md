@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">Hi there, I'm Marius Romosan</h1>
-  <h3 align="center">Backend Developer | Cloud Infrastructure | Terraform</h3>
+  <h3 align="center">Backend Engineer | Cloud Infrastructure | Terraform</h3>
 </div>
 
 <p align="center">
@@ -20,15 +20,15 @@
 
 ### About Me
 
-- Backend developer with 3+ years of experience in **Go**, **Terraform**, and **cloud infrastructure**.
-- Developed **3 custom Terraform Providers** and **microservices in Go**.
+- Backend developer with 3+ years of experience, working with **Go**, **PHP**, **Terraform**, and **cloud infrastructure**.
+- **Core Developer** of Arsys's baremetal Terraform Provider and microservices in Go.
 - AWS certified.
 
 ---
 
 ### Currently Working On
 
-- **[logtailr](https://github.com/Mariusrfx/logtailr)** — Concurrent multi-source log aggregation tool in Go. Tails, parses, and filters logs from files, Docker, journalctl, Kubernetes pods, and stdin. Routes to console, files, OpenSearch, or webhooks. Includes web dashboard, alert engine, and PostgreSQL-backed configuration.
+- **[logtailr](https://github.com/Mariusrfx/logtailr)**: Concurrent multi-source log aggregation tool in Go. Tails, parses, and filters logs from files, Docker, journalctl, Kubernetes pods, and stdin. Routes to console, files, OpenSearch, or webhooks. Includes web dashboard, alert engine, and PostgreSQL-backed configuration.
 
 ---
 
@@ -91,6 +91,6 @@
 
 ### Certifications
 
-- **AWS Certified Cloud Practitioner** — Amazon Web Services
-- **Hexagonal Architecture, SOLID, DDD & CQRS** — CodelyTV
-- **Terraform, Docker & Clean Code** — CodelyTV
+- **AWS Certified Cloud Practitioner** (Amazon Web Services)
+- **Hexagonal Architecture, SOLID, DDD & CQRS** (CodelyTV)
+- **Terraform, Docker & Clean Code** (CodelyTV)
