@@ -20,7 +20,7 @@
 
 ### About Me
 
-- Backend developer with 3+ years of experience, working with **Go**, **PHP**, **Terraform**, and **cloud infrastructure**.
+- Backend engineer with 3+ years of experience, working with **Go**, **PHP**, **Terraform**, and **cloud infrastructure**.
 - **Core Developer** of Arsys's baremetal Terraform Provider and microservices in Go.
 - AWS certified.
 
