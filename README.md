@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">Hi there, I'm Marius Romosan</h1>
-  <h3 align="center">Backend Engineer | Cloud Infrastructure | Terraform</h3>
+  <h3 align="center">Backend Engineer (Go) | Terraform Provider | Distributed Systems</h3>
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ### About Me
 
 - Backend engineer with 3+ years of experience, working with **Go**, **PHP**, **Terraform**, and **cloud infrastructure**.
-- **Core Developer** of Arsys's baremetal Terraform Provider and microservices in Go.
+- **Core Developer** of Arsys's bare-metal Terraform provider (Go, Terraform Plugin Framework).
 - AWS certified.
 
 ---
@@ -38,7 +38,6 @@
 <br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/PHP_(Slim)-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Java_(Spring_Boot)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 **Communication & Messaging**
 <br>
@@ -50,20 +49,18 @@
 <br>
 <img src="https://img.shields.io/badge/DDD-8A2BE2?style=for-the-badge&logoColor=white" alt="DDD" />
 <img src="https://img.shields.io/badge/Hexagonal_Architecture-FF6F61?style=for-the-badge&logoColor=white" alt="Hexagonal Architecture" />
-<img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logoColor=white" alt="Microservices" />
-<img src="https://img.shields.io/badge/Event--Driven-FF9800?style=for-the-badge&logoColor=white" alt="Event-Driven" />
 
 **Cloud & DevOps**
 <br>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 
 **Observability**
 <br>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
 
