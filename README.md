@@ -20,8 +20,9 @@
 
 ### About Me
 
-- Backend engineer with 3+ years of experience, working with **Go**, **PHP**, **Terraform**, and **cloud infrastructure**.
-- **Core Developer** of Arsys's bare-metal Terraform provider (Go, Terraform Plugin Framework).
+- Backend engineer with 3+ years of experience building backend systems and infrastructure, specialized in **Go**.
+- **Core Developer** of a production bare-metal Terraform provider at Arsys (Go, Terraform Plugin Framework) and of a REST API for an AI inference platform.
+- Experience with Go concurrency (goroutines, channels).
 - AWS certified.
 
 ---
@@ -37,6 +38,7 @@
 **Languages & Backend**
 <br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PHP_(Slim)-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
 **Communication & Messaging**
@@ -49,6 +51,7 @@
 <br>
 <img src="https://img.shields.io/badge/DDD-8A2BE2?style=for-the-badge&logoColor=white" alt="DDD" />
 <img src="https://img.shields.io/badge/Hexagonal_Architecture-FF6F61?style=for-the-badge&logoColor=white" alt="Hexagonal Architecture" />
+<img src="https://img.shields.io/badge/CQRS-2E8B57?style=for-the-badge&logoColor=white" alt="CQRS" />
 
 **Cloud & DevOps**
 <br>
@@ -61,6 +64,7 @@
 
 **Observability**
 <br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
 
@@ -83,6 +87,7 @@
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
 <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logoColor=white" alt="vLLM" />
+<img src="https://img.shields.io/badge/OpenWebUI-000000?style=for-the-badge&logoColor=white" alt="OpenWebUI" />
 
 ---
 
